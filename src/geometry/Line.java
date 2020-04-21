@@ -2,10 +2,10 @@ package geometry;
 
 public class Line {
 	// properties
-	  public int startX;
-	  public int endX;
-	  public int startY;
-	  public int endY;
+	  private int startX;
+	  private int endX;
+	  private int startY;
+	  private int endY;
 
 
 	  // constructor
